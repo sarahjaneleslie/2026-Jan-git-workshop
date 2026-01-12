@@ -1,1 +1,1 @@
-# 2026-Jan-git-workshop
+# Research computing workshop on git
